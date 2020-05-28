@@ -152,4 +152,13 @@ module.exports = function(config) {
   config.addCollection('tips_noswears_pt_BR', function(collection) {
     return getTipCollection(collection, "noswears", "pt_BR");
   });
+
+  // Sinhala language version
+  config.addCollection('tips_swears_si', function(collection) {
+    return getTipCollection(collection, "swears", "si");
+  });
+
+  config.addCollection('tips_noswears_si', function(collection) {
+      return getTipCollection(collection, "noswears", "si");
+  });
 };

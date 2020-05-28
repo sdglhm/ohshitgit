@@ -63,6 +63,11 @@ module.exports = function() {
                 "label": "romana",
                 "code": "ro",
                 "arialabel": "Alege o alta limba"
+            },
+            {
+                "label": "සිංහල",
+                "code": "si",
+                "arialabel": "වෙනත් භාෂාවන් වලින් කියවන්න"
             }
         ],
         "collaborators": [
@@ -120,6 +125,11 @@ module.exports = function() {
                 "name": "Davi Alexandre",
                 "link": "https://github.com/davialexandre",
                 "lang": "pt_BR"
+            },
+            {
+                "name": "Lahiru Himesh Madusanka",
+                "link": "https://github.com/sdglhm",
+                "lang": "si"
             }
         ],
         "otherhelpers": [
